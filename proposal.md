@@ -1,4 +1,4 @@
-# Research Proposal: < Predicting Employment and Economic Trends: An Analysis of the Relationship between Industry Trends and Recession Data. >
+# Research Proposal: Predicting Employment and Economic Trends: An Analysis of the Relationship between Industry Trends and Recession Data. 
 
 By Tim DiPalo, Tom Griffith, and Christyan Jean-Charles
 
