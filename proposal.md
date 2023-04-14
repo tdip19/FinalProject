@@ -1,4 +1,4 @@
-# Research Proposal: < Title >
+# Research Proposal: < Predicting Employment and Economic Trends: An Analysis of the Relationship between Industry Trends and Recession Data. >
 
 By Tim DiPalo, Tom Griffith, and Christyan Jean-Charles
 
@@ -14,8 +14,7 @@ This section should cover:
 ## Specifically, Do job losses in the construction industry drive recessions?
 
 2. If your project is about relationships, what are the hypotheses you're testing?
-We are testing the relationship between the construction industry and recession data 
-3. If your project is about prediction, what is your metrics of success? [(What are you maximizing?)](https://ledatascifi.github.io/ledatascifi-2022/content/05/03d_whatToMax.html) Can you find a baseline from prior work to give you a ball park to aim for?
+- As part of our predictive modeling analysis, we will be examining the relationship between the construction industry and recession data to determine how these two factors may be related. We will use statistical analysis techniques to examine the relationship between the construction industry and recession data. This may involve using correlation analysis to quantify the strength of the relationship between these variables, or regression analysis to identify the factors that drive changes in the construction industry during recession periods.
 
 ## Necessary Data
 
