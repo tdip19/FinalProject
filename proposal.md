@@ -4,6 +4,8 @@
 
 This project explores whether we can use past data on industry trends and leading indicators to predict future employment and economic trends. Specifically, do job losses in the construction industry drive recessions?
 
+As part of our predictive modeling analysis, we will be examining the relationship between the construction industry and recession data to determine how these two factors may be related. We will use statistical analysis techniques to examine the relationship between the construction industry and recession data. This may involve using correlation analysis to quantify the strength of the relationship between these variables, or regression analysis to identify the factors that drive changes in the construction industry during recession periods.
+
 ## Necessary Data
 
 1. The final dataset:
