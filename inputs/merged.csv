@@ -1,4 +1,4 @@
-Year,Period,Label,S&P500 Return,Percent Change in GDP,CPI,Construction Unemployment Rate,Manufacturing Unemployment Rate,Finance Unemployment Rate
+Year,Period,Label,SP500_Return,Percent_Change_in_GDP,CPI,Construction_Unemployment_Rate,Manufacturing_Unemployment_Rate,Finance_Unemployment_Rate
 2005,Q01,2005 Qtr1,-0.0259,4.5,192.36666666666667,11.4,5.3,2.6
 2005,Q02,2005 Qtr2,0.0091,2,193.66666666666666,6.4,4.6,3.2
 2005,Q03,2005 Qtr3,0.0315,3.2,196.6,5.6,4.9,3.2
