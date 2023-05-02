@@ -27,3 +27,5 @@ https://www.bea.gov/
 
 That's it! All neccesary imports are included in each file when ran. The folder should be around 2MB so there should be no problems with space.  
 
+![Snoop Dogg Cameo](https://media.giphy.com/media/9ECG4xqyyYmLhctOTW/giphy.gif)
+
